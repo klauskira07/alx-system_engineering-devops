@@ -1,2 +1,3 @@
 #!/bin/bash
 wpd
+su betty
