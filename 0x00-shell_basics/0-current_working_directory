@@ -1,1 +1,1 @@
-wc -l 12-file_type 2 12file-file_type
+#!/bin/bash
