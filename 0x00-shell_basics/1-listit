@@ -1,5 +1,4 @@
 #!/bin/bash
-su betty
 0-current_working_directory
 0-iam_betty
 100-lets_move
